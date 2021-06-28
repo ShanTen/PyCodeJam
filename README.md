@@ -1,5 +1,7 @@
 # PyCodeJam
-# Solution for the Python Summer Code Jam 
+# *Incorrect* Solution for the Python Summer Code Jam 
+
+It mutates, pads unevenly and dies on multiple object calls of the same name but it's 40 minutes of **solid** *honest work* work. <3
 
 ```
 from makeTable import make_table
